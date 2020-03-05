@@ -115,7 +115,7 @@ To download the latest available release, clone the repository over github.
 Then, init the submodules:
 
 ```console
-    $ git submodule update --init
+    $ git submodule update --init --progress
 ```
 
 Now, compile the sources:
